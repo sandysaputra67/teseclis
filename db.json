@@ -1,0 +1,151 @@
+{
+    "document": {
+        "metadata": {
+          "id": "MA-008",
+          "title": "Networking For Beginner",
+          "type": "book",
+          "version": "2.0",
+          "history": [{ "id": "MA-005", "title": "Networking For Beginner", "type": "book", "version": "1.0" }]
+        },
+        "contents": [
+          {
+            "id": "CT-1",
+            "section": "title",
+            "content": ["Networking For Beginner"],
+            "child": null
+          },
+          {
+            "id": "CT-2",
+            "section": "chapter",
+            "content": ["Networking Chapter 1"],
+            "child": [
+              {
+                "id": "CT-3",
+                "section": "paragraph",
+                "content": ["This is a paragraph for networking chapter 1"],
+                "child": null
+              },
+              {
+                "id": "CT-4",
+                "section": "part",
+                "content": ["Part 1 of Chapter 1"],
+                "child": [
+                  {
+                    "id": "CT-3",
+                    "section": "paragraph",
+                    "content": [
+                      "This is a paragraph for networking chapter 1 part 1 p1",
+                      "This is a paragraph for networking chapter 1 part 1 p2",
+                      "This is a paragraph for networking chapter 1 part 1 p3"
+                    ],
+                    "child": null
+                  }
+                ]
+              },
+              {
+                "id": "CT-5",
+                "section": "part",
+                "content": ["Part 2 of Chapter 1"],
+                "child": [
+                  {
+                    "id": "CT-6",
+                    "section": "paragraph",
+                    "content": [
+                      "This is a paragraph for networking chapter 1 part 2 p1",
+                      "This is a paragraph for networking chapter 1 part 2 p2",
+                      "This is a paragraph for networking chapter 1 part 2 p3"
+                    ],
+                    "child": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "CT-7",
+            "section": "chapter",
+            "content": ["Networking Chapter 2"],
+            "child": [
+              {
+                "id": "CT-8",
+                "section": "paragraph",
+                "content": ["This is a paragraph for networking chapter 2"],
+                "child": null
+              },
+              {
+                "id": "CT-9",
+                "section": "part",
+                "content": ["Part 1 of Chapter 2"],
+                "child": [
+                  {
+                    "id": "CT-10",
+                    "section": "paragraph",
+                    "content": [
+                      "This is a paragraph for networking chapter 2 part 1 p1",
+                      "This is a paragraph for networking chapter 2 part 1 p2",
+                      "This is a paragraph for networking chapter 2 part 1 p3"
+                    ],
+                    "child": null
+                  }
+                ]
+              },
+              {
+                "id": "CT-11",
+                "section": "part",
+                "content": ["Part 2 of Chapter 2"],
+                "child": [
+                  {
+                    "id": "CT-12",
+                    "section": "paragraph",
+                    "content": [
+                      "This is a paragraph for networking chapter 2 part 2 p1",
+                      "This is a paragraph for networking chapter 2 part 2 p2",
+                      "This is a paragraph for networking chapter 2 part 2 p3"
+                    ],
+                    "child": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "CT-13",
+            "section": "signature",
+            "content": ["Sign On 3 January 2022"],
+            "child": null,
+            "image": "https://toppng.com/uploads/preview/signature-png-115539500690fdntr4lhu.png"
+          }
+        ]
+      },
+      "records": [
+        { "id": "MA-001", "title": "Networking For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-002", "title": "Nextjs For Beginner", "type": "book", "version": "2.0" },
+        { "id": "MA-003", "title": "Reactjs For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-004", "title": "Golang For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-005", "title": "Networking For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-006", "title": "PHP For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-007", "title": "Javascript For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-008", "title": "Swift For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-009", "title": "Architecture For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-010", "title": "System Design For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-011", "title": "UI/UX For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-012", "title": "Nodejs For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-013", "title": "Nestjs For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-014", "title": "Microservice For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-015", "title": "Monolithic For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-016", "title": "Gateway For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-017", "title": "Traefik For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-018", "title": "Elasticsearch For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-019", "title": "Casandra For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-020", "title": "Rabbitmq For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-021", "title": "Dataminer For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-022", "title": "SEO For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-023", "title": "Analytics For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-024", "title": "Learn Operating System For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-025", "title": "Flutter For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-026", "title": "React Native For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-027", "title": "Android For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-028", "title": "Diagram For Beginner", "type": "book", "version": "1.0" },
+        { "id": "MA-029", "title": "Ruby For Beginner", "type": "book", "version": "1.0" }
+      ]
+}
